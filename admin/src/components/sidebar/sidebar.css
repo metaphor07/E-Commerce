@@ -1,0 +1,46 @@
+.sidebar{
+    flex: 1;
+    background-color: rgb(254, 245, 239);
+    /* height: 100vh;  //it's overfolw,cause topbar height=50px(so, its shows 100%+50px vh */
+    height: calc(100vh - 50px);
+    position: sticky;
+    top: 50px;
+}
+
+.sidebarWrapper{
+    padding: 20px;
+    color: #555;
+}
+
+.sidebarMenu{
+    margin-bottom: 10px;
+}
+
+.sidebarTitle{
+    font-size: 13px;
+    color: rgb(187, 186, 186);
+}
+
+.sidebarList{
+    list-style: none;
+    padding: 5px;
+}
+
+.sidebarListItem{
+    padding: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    /* border: 2px solid rebeccapurple; */
+    border-radius: 10px;
+}
+
+.sidebarListItem.active, .sidebarListItem:hover{
+    background-color: rgb(240, 240, 255);
+}
+
+.sidebarIcon{
+    margin-right: 5px;
+    font-size: 20px !important; 
+    /* to change mui icons we need to write "!important" */
+}

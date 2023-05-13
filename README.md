@@ -28,18 +28,18 @@ SUBSCRIBE AND FOOTER SECTION:-
 
 
 YOU CAN FILTER THE ITEMS BY COLOR SIZE AND NEWEST
-![2023-05-12 (24)](https://github.com/metaphor07/E-Commerce/assets/93358507/a90d48b5-1bc6-4602-b5bc-7c848f1049eb)
+![2023-05-13 (8)](https://github.com/metaphor07/E-Commerce/assets/93358507/ccfd5bea-86b0-4f13-8714-71d53eff012d)
 
 
 SINGLE PRODUCT PAGE
-![2023-05-12 (22)](https://github.com/metaphor07/E-Commerce/assets/93358507/b235b0c5-9418-4593-9671-84ab08df2f41)
+![2023-05-13 (9)](https://github.com/metaphor07/E-Commerce/assets/93358507/09e1e684-ab3b-4510-8581-96f4965f9174)
 
 
 CART PAGE
-![2023-05-12 (23)](https://github.com/metaphor07/E-Commerce/assets/93358507/4dad1732-84a0-4379-81de-5a3111d50fd5)
+![2023-05-13 (10)](https://github.com/metaphor07/E-Commerce/assets/93358507/23101f10-7b91-4a82-9a99-80b835d04727)
 
 
-CHECKOUT PAGE
+CHECKOUT PAGE:
 ![2023-05-12 (25)](https://github.com/metaphor07/E-Commerce/assets/93358507/28f90c6c-ba37-451c-aaff-af9510343237)
 
 
